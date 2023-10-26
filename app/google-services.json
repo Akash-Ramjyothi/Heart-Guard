@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "25738976542",
+    "firebase_url": "https://health-guard-v1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "health-guard-v1",
+    "storage_bucket": "health-guard-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25738976542:android:6545940834deca824d7d0f",
+        "android_client_info": {
+          "package_name": "com.akash.heartguardv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXKIMqzUQMc32zMUFvO2X320qmZL5ytE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
